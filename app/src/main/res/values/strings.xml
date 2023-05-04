@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">pizza house</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="sign_in_to_cont">sign in to continue</string>
+    <string name="hint_username">username</string>
+    <string name="password">password</string>
+    <string name="Get_Start">Get Start</string>
+    <string name="Do_not_Have_an_Account">Do not Have an Account</string>
+    <string name="Sign_up">Signup</string>
+    <string name="Sign_Up_Title">Sign Up</string>
+    <string name="Create_a_New_Account">Create a New Account</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+    <string name="Sign_in">Sign in </string>
+    <string name="testing"> Testing </string>
+    <string name="Dr_James_Harrington"> Dr james Harrington </string>
+    <string name="Director_of_software_and_engineer_at_work_land_Inc"> Director Of Software And Engineer At Work land Inc </string>
+    <string name="Message"> Message </string>
+    <string name="Product_Category"> Product Category </string>
+    <string name="Name_Of_The_Product"> Name Of The Product </string>
+
+</resources>
